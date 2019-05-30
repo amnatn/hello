@@ -5,3 +5,5 @@ for i in range(3):
 
 print("%s from VS2017" % msg)
 print("It's work!")
+
+print("GitHub Source Control with VS")
