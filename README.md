@@ -16,9 +16,9 @@ sync (push & pull)
 
 pull (from Server)
 
-*** สรุป commit all > sync แม่ม ง่ายสุดดดดดดดดดดด
-
 ### ไรว่ะ
+
+*** สรุป commit all > sync แม่ม ง่ายสุดดดดดดดดดดด
 
 ---
 ## Markdown Editor
