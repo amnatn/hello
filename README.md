@@ -10,11 +10,11 @@
 กรูแก้ คอมมิด ไปแล้ว มัยไม่อัปเดท เวรแล้ว สัสสสสสส<br />
 kookae commit pailaew maimaiupdate wenlaew sasssssss
 
-commit > push 
+commit (to local) > push (to server)
 
-sync
+sync (push & pull)
 
-pull
+pull (from Server)
 
 ### ไรว่ะ
 
