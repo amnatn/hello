@@ -7,8 +7,16 @@
 # กรู งง มาก มาย
 
 
-กรูแก้ คอมมิด ไปแล้ว มัยไม่อัปเดท เวรแล้ว สัสสสสสส
+กรูแก้ คอมมิด ไปแล้ว มัยไม่อัปเดท เวรแล้ว สัสสสสสส<br />
 kookae commit pailaew maimaiupdate wenlaew sasssssss
+
+commit > push 
+
+sync
+
+pull
+
+### ไรว่ะ
 
 ---
 ## Markdown Editor
