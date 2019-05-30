@@ -6,6 +6,10 @@
 
 # กรู งง มาก มาย
 
+
+กรูแก้ คอมมิด ไปแล้ว มัยไม่อัปเดท เวรแล้ว สัสสสสสส
+kookae commit pailaew maimaiupdate wenlaew sasssssss
+
 ---
 ## Markdown Editor
 
