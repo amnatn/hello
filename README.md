@@ -12,9 +12,11 @@ kookae commit pailaew maimaiupdate wenlaew sasssssss
 
 commit (to local) > push (to server)
 
-sync (push & pull)
+sync (push & pull) 
 
 pull (from Server)
+
+*** สรุป commit all > sync แม่ม ง่ายสุดดดดดดดดดดด
 
 ### ไรว่ะ
 
